@@ -22,6 +22,7 @@ This repository serves as my official Digital Literacy Portfolio for the Student
  task-5-cybercrime/: Identity theft case study and prevention guide
 
  Module Summaries
+ 
 Task 1: Digital Literacy Awareness
 Created a professional poster using Canva to define digital literacy and highlight safe internet practices for first-year students .
 
