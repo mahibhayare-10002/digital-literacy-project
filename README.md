@@ -22,7 +22,7 @@ This repository serves as my official Digital Literacy Portfolio for the Student
  task-5-cybercrime/: Identity theft case study and prevention guide
 
  Module Summaries
- 
+
 Task 1: Digital Literacy Awareness
 Created a professional poster using Canva to define digital literacy and highlight safe internet practices for first-year students .
 
@@ -45,4 +45,7 @@ Task 5: Cybercrime Awareness
 Researched a detailed case study on Identity Theft and produced an 8-point "Stay Safe Online" checklist specifically tailored for campus life and UPI security .
 
 Support & ReportingFor any cybercrime incidents, please report to:
-National Cyber Crime Portal: [suspicious link removed] Helpline: 1930
+
+National Cyber Crime Portal: [suspicious link removed] 
+
+Helpline: 1930
