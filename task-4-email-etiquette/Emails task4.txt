@@ -1,0 +1,78 @@
+Email 1: 
+  Write an email from a student to their professor requesting an extension on an
+assignment submission deadline. The email must follow all professional email rules.
+
+To: professor@vitbhopal.ac.in
+Subject : Request to extend the deadline for submission of the Lab Practical record.
+
+Respected Sir, 
+I am writing this email to request for a short extension in the deadline to submit the Lab Practical records because
+as a consequence of the recent events regarding disturbance in flight schedules of Indigo , my flight scheduled 
+on 2nd of April to Bhopal has been cancelled and I am not sure about when it will be rescheduled to, hence I will be
+travelling by train to Bhopal and would reach the college premises on 6th of April in the evening.
+ 
+Therefore, I am concerned that I will not be able to submit the work by the current deadline and I kindly request you to 
+please allow me to submit the records by 7th April.
+
+I will try to the best of my ability to make sure the submission does not get delayed further.
+
+Thank you for your time, consideration, and understanding.
+
+Regards, 
+Mahi Bhayare,
+25BOE10002,
+B.Tech Bioengineering, 
+SBET, 
+VIT Bhopal.
+
+
+
+
+
+
+
+
+Email 2 -
+Write an email from a student to an internship coordinator at a company,
+expressing interest in a summer internship opportunity.
+
+Subject : Application for Summer Internship 2026 Opportunity at ImmunoACT
+
+My name is Mahi Bhayare, a second-year Bioengineering student at VIT Bhopal. I came across the summer internship 
+postings on your careers page and am excited about the opportunity to contribute to ImmunoACTs' revolutionary 
+projects in CAR-T cell therapy against cancer.
+
+I am in continuous association with IISER Bhopals' Research and Development Cell and have gained some hands-on experience
+within the Research Domain of The Bioengineering Club of VIT Bhopal. I look forward to pull off more such interesting and
+scholastic opportunities which I discovered on your page on LinkedIn.
+
+I’m available full-time from June to August 2026 and would love to discuss how I can support your goals.
+
+I've attached my resume and GitHub portfolio for your review. Thank you for considering my application—I look forward to hearing from you!
+
+Regards,
+Mahi Bhayare,
+25BOE10002,
+B.Tech Bioengineering, 
+SBET, 
+VIT Bhopal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
